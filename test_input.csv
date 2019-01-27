@@ -1,0 +1,6 @@
+﻿prime_pic,targ_verb,targ_pic,prime_verb,active_correct,passive_correct,active_incorrect,passive_incorrect
+P01,follow,T05,chase,the nun is chasing the sailor,the sailor is being chased by the nun,the nun is chase the sailor,the sailor is being chase by the nun
+P02,follow,T06,chase,the waitress is chasing the robber,the robber is being chased by the waitress,the waitress is chase the robber,the robber is being chase by the waitress
+P03,follow,T07,chase,the policeman is chasing the monk,the monk is being chased by the policeman ,the policeman is chase the monk,the monk is being chase by the policeman 
+P04,follow,T08,chase,the pirate is chasing the swimmer,the swimmer is being chased by the pirate ,the pirate is chase the swimmer,the swimmer is being chase by the pirate 
+P05,kick,,follow,the nun is following the doctor,the doctor is being followed by the nun ,the nun is follow the doctor,the doctor is being follow by the nun 
