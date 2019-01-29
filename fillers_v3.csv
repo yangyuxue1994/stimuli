@@ -1,0 +1,38 @@
+trial,prime_image_ID,prime_verb,FC,FI,verif_ans,prime_type,prime_sentence,targ_image_index,targ_image_ID,targ_verb
+F001,001-hammer.jpg,hammer,The person is hitting the nail with the hammer.,The person is hit the nail with the hammer.,1,FC,The person is hitting the nail with the hammer.,F038,038-curl.jpg,curl
+F002,002-beg.jpg,beg,The man is begging for money on the street.,The man is beg for money on the street.,1,FC,The man is begging for money on the street.,F039,039-cough.jpg,cough
+F003,003-bow.jpg,bow,The gentleman is bowing to the crowd.,The gentleman is bow to the crowd.,1,FC,The gentleman is bowing to the crowd.,F040,040-hide.jpg,hide
+F004,004-clap.jpg,clap,The person is clapping after cleaning.,The person is clap after cleaning.,1,FC,The person is clapping after cleaning.,F041,041-dry.jpg,dry
+F005,005-clap.jpg,clap,The man is clapping after the performance.,The man is clap after the performance,1,FC,The man is clapping after the performance.,F042,042-write.jpg,write
+F006,006-play.jpg,play,The girl is playing the piano.,The girl is play the piano.,1,FC,The girl is playing the piano.,F043,043-celebrate.jpg,celebrate
+F007,007-bounce.jpg,bounce,The boy is bouncing the basketball.,The boy is bounce the basketball.,1,FC,The boy is bouncing the basketball.,F044,044-operate.jpg,operate
+F008,008-curtsy.jpg,curtsy,The girl is curtsying.,The girl is curtsy.,1,FC,The girl is curtsying.,F045,045-knit.jpg,knit
+F009,009-parachute.jpg,parachute,The man is parachuting to the ground.,The man is parachute to the ground.,1,FC,The man is parachuting to the ground.,F046,046-drill.jpg,drill
+F010,010-hatch.jpg,hatch,The chick just hatched.,The chick just hatch.,1,FC,The chick just hatched.,F047,047-comb.jpg,comb
+F011,011-snow.jpg,snow,It is snowing right now.,It is snow right now.,1,FI,It is snow right now.,F048,048-iron.jpg,iron
+F012,012-bounce.jpg,bounce,The boy is bouncing the basketball.,The boy is bounce the basketball.,1,FI,The boy is bounce the basketball.,F049,049-fall.jpg,fall
+F013,013-balanace.jpg,balanace,The acrobat is balancing on the rope.,The acrobat is balance on the rope.,1,FI,The acrobat is balance on the rope.,F050,050-hitchhike.jpg,hitchhike
+F014,014-row.jpg,row,The boy is rowing his boat. ,The boy is row his boat.,1,FI,The boy is row his boat.,F051,051-jump.jpg,jump
+F015,015-brush.jpg,brush,The boy is brushing his teeth.,The boy is brush his teeth.,1,FI,The boy is brush his teeth.,F052,052-sneeze.jpg,sneeze
+F016,016-slip.jpg,slip,The man slipped on a banana peel.,The man slip on a banana.,1,FI,The man slip on a banana.,F053,053-juggle.jpg,juggle
+F017,017-shower.jpg,shower,The person is showering. ,The person is shower.,1,FI,The person is shower.,F054,054-light.jpg,light
+F018,018-salute.jpg,salute,The soldier is saluting.,The soldier is salute.,1,FI,The soldier is salute.,F055,055-eat.jpg,eat
+F019,019-dip.jpg,dip,The person is dipping the chip in sauce.,The person is dip the chip in sauce.,1,FI,The person is dip the chip in sauce.,F056,056-drip.jpg,drip
+F020,020-cry.jpg,cry,The girl is crying. ,The girl is cry.,1,FI,The girl is cry.,F057,057-miss.jpg,miss
+F021,021-cry.jpg,cry,The little boy is crying.,The little boy is cry.,0,FR,The boy shock himself.,F058,058-smoke.jpg,smoke
+F022,022-golf.jpg,golf,The two men are golfing.,The two men are golf.,0,FR,The girl is smile at the camera.,F059,059-knight.jpg,knight
+F023,023-cook.jpg,cook,The woman is cooking a burger patty.,The woman is cook a burger patty.,0,FR,The boy is camp in the forest.,F060,060-crawl.jpg,crawl
+F024,024-box.jpg,box,The man is boxing.,The man is box.,0,FR,The two girls are whisper.,F061,061-make.jpg,make
+F025,025-make.jpg,make,The woman is making the bed.,The woman is make the bed.,0,FR,The man is ski down the mountain.,F062,062-howl.jpg,howl
+F026,026-laugh.jpg,laugh,The family is laughing together. ,The family is laugh together.,0,FR,The person buckle their shoes.,F063,063-conduct.jpg,conduct
+F027,027-cheer.jpg,cheer,The cheerleaders are cheering for the team.,The cheerleaders are cheer for the team.,0,FR,The grandmother swat at the fly.,F064,064-hammer.jpg,hammer
+F028,028-sing.jpg,sing,The girl is singing a song.,The girl is sing a song.,0,FR,The woman is mop the floor.,F065,065-fence.jpg,fence
+F029,029-shock.jpg,shock,The boy shocked himself. ,The boy shock himself.,0,FR,The workers are mine.,F066,066-bark.jpg,bark
+F030,030-smile.jpg,smile,The girl is smiling at the camera. ,The girl is smile at the camera.,0,FR,The little boy is cry.,F067,067-skate.jpg,skate
+F031,031-camp.jpg,camp,The boy is camping in the forest.,The boy is camp in the forest.,0,FR,The two men are golf.,F068,068-sail.jpg,sail
+F032,032-whisper.jpg,whisper,The two girls are whispering. ,The two girls are whisper.,0,FR,The woman is cook a burger patty.,F069,069-raise.jpg,raise
+F033,033-ski.jpg,ski,The man is skiing down the mountain.,The man is ski down the mountain.,0,FR,The man is box.,F070,070-light.jpg,light
+F034,034-buckle.jpg,buckle,The person buckles their shoes.,The person buckle their shoes.,0,FR,The woman is make the bed.,F071,071-kneel.jpg,kneel
+F035,035-swat.jpg,swat,The grandmother swats at the fly. ,The grandmother swat at the fly.,0,FR,The family is laugh together.,F072,072-fish.jpg,fish
+F036,036-mop.jpg,mop,The woman is mopping the floor. ,The woman is mop the floor.,0,FR,The cheerleaders are cheer for the team.,F073,073-sleep.jpg,sleep
+F037,037-mine.jpg,mine,The workers are mining.,The workers are mine.,0,FR,The girl is sing a song.,F074,074-swim.jpg,swim
